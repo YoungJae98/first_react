@@ -1,5 +1,5 @@
 {
-  "name": "movie_app",
+  "name": "first_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "hompage": "http://youngjae98.github.io/first_react/"
+  "hompage": "https://youngjae98.github.io/first_react/"
 }
